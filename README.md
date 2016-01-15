@@ -1,0 +1,2 @@
+# Code-first-approach-in-entity-framework6-with-asp.net-mvc5
+In this article I am going to discuss how to create web application using code first approach using entity framework 6 with ASP.NET MVC 5. Code-First is mainly focus on Domain Driven Design. This article mainly focuses on how to connect our ASP.NET MVC 5 application with a database using the code first approach.  http://www.techstrikers.com/Articles/code-first-approach-in-entity-framework6-with-asp.net-mvc5.php
